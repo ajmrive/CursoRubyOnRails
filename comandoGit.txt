@@ -1,7 +1,7 @@
 git status
 git add <fichero>
 git commit -m 'mensaje'
-git push
+git push -u origin master
 git pull ->> traer
 git log
 git checkout -> volver a un paso anterior
